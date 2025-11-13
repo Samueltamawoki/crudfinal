@@ -1,0 +1,22 @@
+{
+  "pessoas": [
+    {
+      "id": "575b",
+      "nome": "samuel",
+      "senha": "123"
+    },
+    {
+      "nome": "maria",
+      "sobrenome": "luiza",
+      "cpf": "09876543211",
+      "email": "gdffhgcfg@gamil.com",
+      "senha": "321",
+      "rua": "Rua Mil Oitocentos e Vinte e Dois",
+      "cep": "04216900",
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "telefone": "84576325835463587",
+      "id": "1a16"
+    }
+  ]
+}
